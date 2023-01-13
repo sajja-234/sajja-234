@@ -1,8 +1,3 @@
-# Profile
-- 👋 Hi, I’m @sajja-234
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning git and django
-- 📫 You can reach me through email regmisajja61@gmail.com
 
 
 <!---
